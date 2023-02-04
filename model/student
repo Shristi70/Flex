@@ -1,4 +1,5 @@
 public class student {
 
     public string StdName;
+    public string StdAge;
 }
